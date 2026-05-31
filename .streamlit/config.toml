@@ -1,9 +1,0 @@
-# Светлая тема СППР. Перекрашивает все встроенные виджеты Streamlit
-# (слайдеры, multiselect, метрики, алерты) согласованно.
-[theme]
-base = "light"
-primaryColor = "#1e3a8a"           # тёмно-синий — активные элементы (слайдеры, табы, кнопки)
-backgroundColor = "#ffffff"        # основной фон
-secondaryBackgroundColor = "#f9fafb"  # сайдбар, st.info-фоны
-textColor = "#111827"              # основной цвет текста
-font = "sans serif"
